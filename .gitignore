@@ -8,3 +8,7 @@ bash.exe.stackdump
 chromedriver.exe
 
 test.py
+
+site/
+
+package-lock.json
