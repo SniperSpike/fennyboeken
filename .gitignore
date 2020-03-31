@@ -12,3 +12,9 @@ test.py
 site/
 
 package-lock.json
+
+ebooklijst.json
+
+debug.log
+
+boeken/ebook/
